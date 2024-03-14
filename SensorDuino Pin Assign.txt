@@ -1,0 +1,7 @@
+LED Pin: IO14
+Buzzer Pin: IO32
+
+MQ2 Com Pin: IO36
+MQ2 Switch Pin: IO5
+
+ZE08 Switch Pin: IO4	
